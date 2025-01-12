@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Gabriel Brown. I am a full-stack developer fresh out of uni and looking to enter the big-leagues. 
+I made my first game in GameMaker when I was three and have been in love with software development ever since. 
+
 - 👨‍🎓 Recently graduated from the University of Queensland with a Bachelor’s degree in Computer Science (Programming Languages)
 - 💼 I currently work as IT Support Officer at CiMaS Home Nursing
 - 🌐 I also work as a freelance web developer for all your business needs
