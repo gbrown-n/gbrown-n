@@ -1,4 +1,4 @@
-## Hi there 👋
+## G'day 👋
 
 <!--
 **gbrown-n/gbrown-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Gabriel Brown. I am a full-stack developer fresh out of uni and looking to enter the big-leagues. 
+- 👨‍🎓 Recently graduated from the University of Queensland with a Bachelor’s degree in Computer Science (Programming Languages)
+- 💼 I currently work as IT Support Officer at CiMaS Home Nursing
+- 🌐 I also work as a freelance web developer for all your business needs
+
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py,haskell,react,godot)](https://skillicons.dev)
