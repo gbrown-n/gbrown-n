@@ -22,7 +22,7 @@ I made my first game in GameMaker when I was three and have been in love with so
 - 💼 I currently work as IT Support Officer at CiMaS Home Nursing
 - 🌐 I also work as a freelance web developer for all your business needs
 
-Learn more on my <a rel = "nofollow" href="www.linkedin.com/in/gabriel-brown-b84297346">LinkedIn Profile</a>
+Learn more on my <a rel = "nofollow" href="https://www.linkedin.com/in/gabriel-brown-b84297346">LinkedIn Profile</a>
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py,haskell,react,godot)](https://skillicons.dev)
